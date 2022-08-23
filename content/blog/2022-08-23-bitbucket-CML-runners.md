@@ -128,7 +128,7 @@ on-demand instance costs $0.xx per hour. Profit!
             --cloud-region=us-west \
             --cloud-type=m5.2xlarge \
             --cloud-spot \
-            --labels=cml
+            --labels=cml.runner
 ```
 
 ## Train model on self-hosted runner
